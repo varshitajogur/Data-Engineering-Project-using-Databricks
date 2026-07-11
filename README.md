@@ -14,7 +14,7 @@ This project focuses on building a scalable data pipeline that ingests, transfor
 
 * **Bronze Layer** – Raw data ingestion
 * **Silver Layer** – Data cleansing and transformation
-* **Gold Layer** – Business-ready datasets for analytics
+* **Gold Layer** – Business-ready datasets for analytics 
 
 ---
 
