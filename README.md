@@ -8,9 +8,7 @@
 
 **IDP Architectural Flow**
 
-![IDP Architecture](idp_architectural_flow.png)
-
----
+<img width="1536" height="1024" alt="idp_architectural_flow" src="https://github.com/user-attachments/assets/93331c14-5dfc-458c-b4c1-931f5df336a5" />
 
 ## **Overview**
 
